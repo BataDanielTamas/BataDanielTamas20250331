@@ -11,7 +11,7 @@ import { UpdateRecipeComponent } from './update-recipe/update-recipe.component';
 @NgModule({
   declarations: [
     AppComponent,
-    RecipesComponent,
+    RecipesComponent, 
     ReadRecipeComponent,
     UpdateRecipeComponent,
   ],
